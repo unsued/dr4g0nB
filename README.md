@@ -1,4 +1,4 @@
-<img src="https://octodex.github.com/mona-lovelace/" alt="Mona Lovelace" align="right" height="400">
+<img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" align="right" height="400">
 
 ```javascript
 const barbara = {
